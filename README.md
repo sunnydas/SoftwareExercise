@@ -11,3 +11,6 @@ To build the project.
 ```
 gradle clean build
 ````
+
+## System design for analytics back end
+[System Design Document](https://www.google.com)
